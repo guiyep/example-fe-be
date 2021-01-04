@@ -1,0 +1,13 @@
+{
+  "name": "@example-fe-be/console",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "start-console-example": "node ./src/index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
